@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\WordAnalyzer\WordAnalyzer\obj\Debug\net8.0\WordAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WordAnalyzer\WordAnalyzer\obj\Debug\net8.0\WordAnalyzer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WordAnalyzer\WordAnalyzer\obj\Debug\net8.0\WordAnalyzer.AssemblyInfo.cs
+C:\Users\User\source\repos\WordAnalyzer\WordAnalyzer\obj\Debug\net8.0\WordAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WordAnalyzer\WordAnalyzer\bin\Debug\net8.0\WordAnalyzer.exe
+C:\Users\User\source\repos\WordAnalyzer\WordAnalyzer\bin\Debug\net8.0\WordAnalyzer.deps.json
+C:\Users\User\source\repos\WordAnalyzer\WordAnalyzer\bin\Debug\net8.0\WordAnalyzer.runtimeconfig.json
+C:\Users\User\source\repos\WordAnalyzer\WordAnalyzer\bin\Debug\net8.0\WordAnalyzer.dll
+C:\Users\User\source\repos\WordAnalyzer\WordAnalyzer\bin\Debug\net8.0\WordAnalyzer.pdb
+C:\Users\User\source\repos\WordAnalyzer\WordAnalyzer\obj\Debug\net8.0\WordAnalyzer.dll
+C:\Users\User\source\repos\WordAnalyzer\WordAnalyzer\obj\Debug\net8.0\refint\WordAnalyzer.dll
+C:\Users\User\source\repos\WordAnalyzer\WordAnalyzer\obj\Debug\net8.0\WordAnalyzer.pdb
+C:\Users\User\source\repos\WordAnalyzer\WordAnalyzer\obj\Debug\net8.0\WordAnalyzer.genruntimeconfig.cache
+C:\Users\User\source\repos\WordAnalyzer\WordAnalyzer\obj\Debug\net8.0\ref\WordAnalyzer.dll
